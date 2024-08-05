@@ -1,9 +1,9 @@
-module github.com/catalystsquad/grpc-base-go
+module github.com/catalystcommunity/grpc-base-go
 
 go 1.18
 
 require (
-	github.com/catalystsquad/app-utils-go v1.0.0
+	github.com/catalystcommunity/app-utils-go v1.0.0
 	github.com/getsentry/sentry-go v0.12.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0

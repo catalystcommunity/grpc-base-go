@@ -1,3 +1,11 @@
+## [1.0.6](https://github.com/catalystcommunity/grpc-base-go/compare/v1.0.5...v1.0.6) (2024-11-07)
+
+
+### Bug Fixes
+
+* move to catalystcommunity ([f46fbdb](https://github.com/catalystcommunity/grpc-base-go/commit/f46fbdb4c02db83207385372fba5a1f1df8b9421))
+* update catalystcommunity dependency version ([#13](https://github.com/catalystcommunity/grpc-base-go/issues/13)) ([caa5758](https://github.com/catalystcommunity/grpc-base-go/commit/caa57580138a9499b3721b0d5782f1cc3c107ec5))
+
 ## [1.0.5](https://github.com/catalystcommunity/grpc-base-go/compare/v1.0.4...v1.0.5) (2023-04-10)
 
 

@@ -1,6 +1,8 @@
 module github.com/catalystcommunity/grpc-base-go
 
-go 1.18
+go 1.23.0
+
+toolchain go1.23.7
 
 require (
 	github.com/catalystcommunity/app-utils-go v1.0.9

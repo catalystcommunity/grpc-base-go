@@ -26,3 +26,5 @@ jobs:
           git config --global url."https://${{ secrets.AUTOMATION_PAT }}@github.com".insteadOf "https://github.com"
       - name: Compile
         uses: catalystcommunity/action-compile-go@v1
+        with:
+          go-version: "1.23"
